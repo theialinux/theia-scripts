@@ -1,0 +1,6 @@
+# Main Folders
+data/
+
+# Some files
+.env
+.installed
